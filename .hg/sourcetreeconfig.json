@@ -1,0 +1,32 @@
+{
+  "$id": "5",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2020-07-22T18:14:32.3748858+03:00",
+  "LastUsedView": 1,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "Branches"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "RemoteProjectLinks": [
+    {
+      "$id": "6",
+      "BaseUrl": "https://bitbucket.org/",
+      "Identifier": "MattThorson/monocle-engine",
+      "RemoteName": "origin",
+      "Type": 1,
+      "Username": null,
+      "CloneUrl": "https://bitbucket.org/MattThorson/monocle-engine",
+      "ProjectUrl": null,
+      "AccountId": null,
+      "AvatarUrl": null,
+      "DisplayName": "origin: https://bitbucket.org/"
+    }
+  ]
+}
